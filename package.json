@@ -1,0 +1,8 @@
+{
+  "name": "m2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:20kbudget/m2.git",
+  "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
+  "license": "AGPL-3.0"
+}
