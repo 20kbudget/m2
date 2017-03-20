@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:20kbudget/m2.git",
   "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
-  "license": "AGPL-3.0"
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "flow-bin": "^0.42.0"
+  }
 }
